@@ -1,0 +1,13 @@
+{
+  "name": "gotnative-bot",
+  "version": "0.0.1",
+  "description": "A help bot for RocketSeat's GoNative course",
+  "main": "index.js",
+  "repository": "https://github.com/ribeiroevandro/gonative-bot",
+  "author": "Evandro Ribeiro <ribeiroevandro@live.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "eris": "^0.8.2"
+  }
+}
